@@ -1,4 +1,4 @@
-## Olá eu sou a joão carlos, desenvolvedor full-stack, se quiser chamar pra freela é só falar
+## Olá eu sou a joão carlos, desenvolvedor full-stack
 <div align="center">
   <a href="https://github.com/joao-belmiro" style="text-decoration: none;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-belmiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
