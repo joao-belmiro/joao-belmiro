@@ -1,9 +1,7 @@
 ## Olá eu sou a joão carlos, desenvolvedor full-stack
-<div align="center">
-  <a href="https://github.com/joao-belmiro" >
+<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-belmiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-belmiro&layout=compact&langs_count=8&theme=dark"/>
-  </a>
 </div>
 <div style="display: inline_block;text-decoration:none;"><br>
   <img align="center" alt="joao-Js"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
