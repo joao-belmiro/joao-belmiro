@@ -8,7 +8,11 @@
 </div>
 
 ###
+###
 
+<h5 align="left">Tecnologias que ja trabalhei</h5>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
@@ -53,11 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
-###
 
-<h5 align="left">Tecnologias que ja trabalhei</h5>
-
-###
 
 <img src="https://raw.githubusercontent.com/joao-belmiro/joao-belmiro/output/snake.svg" alt="Snake animation" />
 
