@@ -79,3 +79,10 @@
 </div>
 
 ###
+
+<div align="center">
+  Cŕéditos
+  <a href="https://profile-readme-generator.com" target="_blank">
+    Gerador de README.MD
+  </a>
+</div>
